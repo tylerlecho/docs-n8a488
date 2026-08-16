@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-9nyv6u.pulaucuan.com/sitemap.xml
